@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Rediff Money Test Suite]">
+  <test thread-count="5" name="Adding Stocks (failed)">
+    <classes>
+      <class name="testrunners.Adding_Stocks">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- testrunners.Adding_Stocks -->
+    </classes>
+  </test> <!-- Adding Stocks (failed) -->
+</suite> <!-- Failed suite [Rediff Money Test Suite] -->

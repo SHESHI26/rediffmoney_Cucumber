@@ -1,0 +1,16 @@
+<suite name="Rediff Money Test Suite">
+
+<!--test name="Adding Stocks ">
+<classes>
+<class name="testrunners.Adding_Stocks"></class>
+</classes>
+
+</test-->
+
+<test name="Deleting all stocks">
+<classes>
+<class name="testrunners.Deleting_Stocks"></class>
+</classes>
+
+</test>
+</suite>
